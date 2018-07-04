@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27825.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthentication.Server", "BlazorAuthentication.Server\BlazorAuthentication.Server.csproj", "{28745A69-114F-46B2-9905-454FA8C9A707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAuthentication.Server", "BlazorAuthentication.Server\BlazorAuthentication.Server.csproj", "{28745A69-114F-46B2-9905-454FA8C9A707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthentication.Client", "BlazorAuthentication.Client\BlazorAuthentication.Client.csproj", "{881973A7-9A63-4282-A9D3-D2D375DBD39B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAuthentication.Client", "BlazorAuthentication.Client\BlazorAuthentication.Client.csproj", "{881973A7-9A63-4282-A9D3-D2D375DBD39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAuthentication.Shared", "BlazorAuthentication.Shared\BlazorAuthentication.Shared.csproj", "{23911B94-554D-4B1B-8D4D-A6FA5AF73660}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAuthentication.Shared", "BlazorAuthentication.Shared\BlazorAuthentication.Shared.csproj", "{23911B94-554D-4B1B-8D4D-A6FA5AF73660}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
